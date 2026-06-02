@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Gangwar</h1>
 
 <h3 align="center">
-Integrated M.Tech (Applied Geophysics) @ IIT (ISM) Dhanbad | Software Developer | Competitive Programmer
+Integrated Mater of Technology (Applied Geophysics) @ IIT (ISM) Dhanbad | Frontent Developer | Competitive Programmer
 </h3>
 
 <p align="center">
@@ -17,7 +17,7 @@ Passionate about building scalable applications, solving algorithmic problems, a
 - 🌱 Currently learning Data Structures & Algorithms, MERN Stack, and System Design
 - 🏆 Competitive Programming enthusiast
 - 🚀 Preparing for Software Engineering Internships and Placements
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **agangwar7819@gmail.com**
 - ⚡ Fun Fact: I love exploring new technologies and solving real-world problems
 
 ---
@@ -65,7 +65,7 @@ Passionate about building scalable applications, solving algorithmic problems, a
 
 ### 🌐 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Codeforces](YOUR_CODEFORCES_URL) • [LeetCode](YOUR_LEETCODE_URL) • [GitHub](https://github.com/anujgangwar01)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/anuj-gangwar-47b8a0320/)) • [Codeforces]([YOUR_CODEFORCES_URL](https://codeforces.com/profile/Anuj_37)) • [LeetCode](YOUR_LEETCODE_URL) • [GitHub](https://github.com/anujgangwar01)
 
 ---
 
