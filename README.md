@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Gangwar</h1>
 
 <h3 align="center">
-Integrated Master of Technology (Applied Geophysics) @ IIT (ISM) Dhanbad | Frontend Developer | Competitive Programmer
+Integrated Master of Technology @ IIT (ISM) Dhanbad | Frontend Developer | Competitive Programmer
 </h3>
 
 <p align="center">
