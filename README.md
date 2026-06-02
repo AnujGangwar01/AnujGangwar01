@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Gangwar</h1>
 
 <h3 align="center">
-Integrated Mater of Technology (Applied Geophysics) @ IIT (ISM) Dhanbad | Frontent Developer | Competitive Programmer
+Integrated Master of Technology (Applied Geophysics) @ IIT (ISM) Dhanbad | Frontend Developer | Competitive Programmer
 </h3>
 
 <p align="center">
@@ -15,17 +15,17 @@ Passionate about building scalable applications, solving algorithmic problems, a
 - 🎓 Integrated M.Tech in Applied Geophysics at IIT (ISM) Dhanbad
 - 💻 Interested in Software Engineering, Full Stack Development, and Machine Learning
 - 🌱 Currently learning Data Structures & Algorithms, MERN Stack, and System Design
-- 🏆 Competitive Programming enthusiast
+- 🏆 Competitive Programming Enthusiast
 - 🚀 Preparing for Software Engineering Internships and Placements
 - 📫 Reach me at: **agangwar7819@gmail.com**
-- ⚡ Fun Fact: I love exploring new technologies and solving real-world problems
+- ⚡ I enjoy exploring new technologies and solving real-world problems
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,nodejs,mongodb,mysql,git,github,linux,aws,firebase,django" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,linux,aws,firebase,django" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Passionate about building scalable applications, solving algorithmic problems, a
 
 - Solving problems on Codeforces, LeetCode, and CodeChef
 - Strong interest in Algorithms and Data Structures
-- Consistently improving problem-solving skills
+- Continuously improving problem-solving skills
 
 ---
 
@@ -65,7 +65,19 @@ Passionate about building scalable applications, solving algorithmic problems, a
 
 ### 🌐 Connect With Me
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/anuj-gangwar-47b8a0320/)) • [Codeforces]([YOUR_CODEFORCES_URL](https://codeforces.com/profile/Anuj_37)) • [LeetCode](YOUR_LEETCODE_URL) • [GitHub](https://github.com/anujgangwar01)
+<p align="left">
+<a href="https://www.linkedin.com/in/anuj-gangwar-47b8a0320/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/Anuj_37" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://github.com/anujgangwar01" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
