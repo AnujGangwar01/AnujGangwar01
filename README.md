@@ -75,7 +75,7 @@ Interested in:
 
 ## 🚀 Featured Projects
 
-### 🎤 InterviewIQ
+### 🎤  PrepPilot
 AI-powered Interview Preparation Platform
 
 **Tech Stack:** React • Node.js • Express • MongoDB • Clerk • Gemini AI
