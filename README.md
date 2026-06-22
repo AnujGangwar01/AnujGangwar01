@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Gangwar</h1>
 
 <h3 align="center">
-Integrated M.Tech Student @ IIT (ISM) Dhanbad • Full Stack Developer • Competitive Programmer
+Prefinal Year Student @ IIT (ISM) Dhanbad • Full Stack Developer • Competitive Programmer
 </h3>
 
 <p align="center">
