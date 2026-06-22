@@ -61,6 +61,11 @@ Passionate about building scalable web applications, solving challenging algorit
 - 🔹 Codeforces
 - 🔹 LeetCode
 - 🔹 CodeChef
+  <p align="left">
+  <a href="https://codeforces.com/profile/Anuj_37" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+</p>
 
 Interested in:
 - Data Structures
