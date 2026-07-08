@@ -13,12 +13,11 @@ Passionate about building scalable web applications, solving challenging algorit
 ## 🚀 About Me
 
 - 🎓 Integrated M.Tech in **Applied Geophysics** at **IIT (ISM) Dhanbad**.
-- 💻 Passionate about**Problem Solving** and **Full Stack Development**.
+- 💻 Passionate about **Problem Solving** and **Full Stack Development**.
 - 🌱 Currently learning **Data Structures & Algorithms**, **MERN Stack**, and **System Design**.
 - 🏆 Competitive Programming Enthusiast.
 - 🚀 Preparing for **Software Engineering Internships & Placements**
 - 📫 Email: **agangwar7819@gmail.com**
-- ⚡ Fun Fact: I love exploring new technologies and building real-world projects.
 
 ---
 
